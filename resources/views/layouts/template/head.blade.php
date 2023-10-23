@@ -4,6 +4,9 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta property="og:title" content="Pendaftaran Relawan Amin" />
+  <meta property="og:url" content="https://pendaftaran.relawanamin.com/" />
+  <meta property="og:image" content="{{asset('')}}assets/assets/img/favicon.png" />
 
   <title>Relawan Amin</title>
   <meta content="" name="description">
