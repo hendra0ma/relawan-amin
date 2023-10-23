@@ -25,6 +25,12 @@
 
   <link href="{{asset('')}}assets/assets/css/style.css" rel="stylesheet">
   <style>
+    #hero{
+      padding: 0;
+      height: 300px;
+      max-height: 250px !important;
+    }
+
     #picture__input {
       display: none;
     }

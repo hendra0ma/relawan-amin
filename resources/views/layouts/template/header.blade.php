@@ -13,7 +13,7 @@
         <h2>Anies Baswedan & Muhaimin Iskandar</h2>
         <div> -->
         <div class="text-center text-white"data-aos="zoom-in" data-aos-delay="100">
-        <h2 style="font-size: 34px;font-weight: 700;">Anies Baswedan & Amin</h2>
+        {{-- <h2 style="font-size: 34px;font-weight: 700;">Anies Baswedan & Amin</h2> --}}
         <div>
         
         </div>
