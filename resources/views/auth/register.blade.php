@@ -22,7 +22,7 @@
 
             <div class="col-md-12">
                 <b>
-                    <h4 style="font-weight:700" class="mb-4 text-center">Pendaftaran Relawan Amin</h4>
+                    <h4 style="font-weight:700" class="mb-4 text-center">PENDAFTARAN RELAWAN AMIN</h4>
                 </b>
             </div>
             
@@ -115,12 +115,16 @@
                         </div>
                         <div class="col-md-12 mt-3">
                             <div class="alert alert-danger" role="alert">
-                                Data pendaftaran relawan ini diberikan kepada Baja Amin untuk digunakan sesuai
+                                Data pendaftaran relawan ini diberikan kepada sekretariat Baja Amin untuk digunakan sesuai
                                 kepentingannya, terutama dalam pembentukan saksi-saksi di TPS dan lainnya.
                             </div>
                             <div class="d-grid gap-2 mt-3">
-                                <button class="btn btn-primary rounded-0 shadow-sm" type="submit">Daftar</button>
+                                <button type="button" class="btn btn-primary rounded-0 shadow-sm" onclick="$(`.php-email-form`).submit()">Daftar</button>
                             </div>
+                        </div>
+
+                        <div class="col-md-12 mt-3">
+                            <a href="https://relawanamin.com/">Back to Home</a>
                         </div>
                         
                     </form>
