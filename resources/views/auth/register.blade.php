@@ -7,13 +7,16 @@
 
         <header class="section-header text-center" style="margin-top:-35px">
             <img src="{{asset('')}}assets/img/koalisi-perubahan-amin.png" style="width:200px;height:auto">
-            <b>
-                <h5 class="mt-2" style="font-weight:700">Pendaftaran Relawan Amin</h5>
-            </b>
         </header>
 
-        <div class="row">
+        <div class="row mt-3">
 
+            <div class="col-md-12">
+                <b>
+                    <h4 style="font-weight:700" class="mb-3 text-center">Pendaftaran Relawan Amin</h4>
+                </b>
+            </div>
+            
             <div class="col-lg-12">
 
                 <div class="form">
