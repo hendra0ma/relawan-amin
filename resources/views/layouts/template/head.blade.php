@@ -30,7 +30,8 @@
     }
 
     .picture {
-      width: 300px;
+      width: 100%;
+      height: 91%;
       aspect-ratio: 16/9;
       background: #ddd;
       display: flex;
@@ -65,7 +66,13 @@
     .picture__img {
       max-width: 100%;
     }
-  </style>
+
+    .form-select, option {
+      padding: 10px 15px !important; 
+      border-radius: 0;
+      font-size: 14px;
+    }
+    </style>
 
 </head>
 
