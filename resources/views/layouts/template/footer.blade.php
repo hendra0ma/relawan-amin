@@ -3,11 +3,11 @@
   <!-- ======= Footer ======= -->
   <footer id="footer">
     <div class="footer-top">
-      <div class="container">
-        <div class="row">
-
-        
-
+      <div class="container px-2">
+        <div class="row justify-content-center">
+            <div class="col-lg-5">
+                <img src="{{asset('')}}assets/img/relawan_amin.png" class="img-fluid"style="margin-top:-40px">
+            </div>
         </div>
       </div>
     </div>
